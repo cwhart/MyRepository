@@ -1,13 +1,16 @@
 body {
-  background-color: #add8e6;
+  background-color: NavajoWhite;
   background-size: 100% 100%;
 }
 
-#title {
-  font-family: 'Kaushan Script';font-size: 40px;
+#myTitle {
+  font-family: Kaushan Script, Times, serif;
+  font-size: 60px;
   text-align: center;
 
 }
+
+
 
 footer {
   text-align: center;
