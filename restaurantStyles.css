@@ -1,12 +1,28 @@
 body {
-  background-color: NavajoWhite;
+  background-image: url("./images/downloaded.jpg");
   background-size: 100% 100%;
 }
 
 #myTitle {
   font-family: Kaushan Script, Times, serif;
-  font-size: 60px;
+  font-size: 80px;
   text-align: center;
+
+}
+
+#main {
+  border: 10px;
+  background-color: LightSteelBlue;
+  width:60%;
+  margin: 0 auto;
+}
+
+#tacoImage {
+  width: 400px;
+  height: 400px;
+  background-repeat: no-repeat;
+  margin: auto;
+  background-position: center;
 
 }
 
